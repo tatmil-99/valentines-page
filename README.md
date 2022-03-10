@@ -4,6 +4,10 @@ This is a super simple web page I made in a few hours for my girlfriend. It feat
 
 ![valentines web page](images/valentines.png)
 
+## Future goals
+
+Due to how fast and last minute I built this, it doesn't have form validation. That would be nice to add in just to get some extra practice.
+
 ## Tools and Technologies
 
 - JavaScript
@@ -25,6 +29,8 @@ This was a pretty big hit, so I welcome anyone to fork this and make it for thei
   emailjs.init(""); // Insert key inside empty string
 })();
 ```
+
+\*\* If you fork this, please don't push your API to GitHub.
 
 <br />
 
