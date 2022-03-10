@@ -26,4 +26,6 @@ This was a pretty big hit, so I welcome anyone to fork this and make it for thei
 })();
 ```
 
-\*\* If you do fork this, be sure NOT to push your key to GitHub
+<br />
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
