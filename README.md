@@ -10,7 +10,7 @@ This is a super simple web page I made in a few hours for my girlfriend. It feat
 - HTML
 - CSS
 - EmailJS API
-- EmailJS dSDK
+- EmailJS SDK
 
 ## How to Use
 
